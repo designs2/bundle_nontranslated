@@ -38,14 +38,14 @@
 		"source":"https://github.com/designs2/bundle_nontranslated"
 	},
 	"require":{
-		"designs2/attribute_alias":"*",
-		"designs2/attribute_file":"*",
-		"designs2/attribute_longtext":"*",
-		"designs2/attribute_select":"*",
-		"designs2/attribute_tabletext":"*",
-		"designs2/attribute_tags":"*",
-		"designs2/attribute_text":"*",
-		"designs2/attribute_combinedvalues":"*",
-		"designs2/attribute_checkbox":"*"
+		"designs2/attribute_alias":"dev-master",
+		"designs2/attribute_file":"dev-master",
+		"designs2/attribute_longtext":"dev-master",
+		"designs2/attribute_select":"dev-master",
+		"designs2/attribute_tabletext":"dev-master",
+		"designs2/attribute_tags":"dev-master",
+		"designs2/attribute_text":"dev-master",
+		"designs2/attribute_combinedvalues":"dev-master",
+		"designs2/attribute_checkbox":"dev-master"
 	}
 }
